@@ -23,7 +23,7 @@
 
 **2024** — led a team at uni hackathon. 7th place. realized i needed to build, not just break.
 
-**2025-2026** — pivoting hard into backend development. not abandoning security — using it as a superpower. building APIs that are secure by default because i know what attackers look for.
+**2025-2026** — pivoting hard into backend development. not abandoning security, using it as a superpower. building APIs that are secure by default because i know what attackers look for.
 
 **endgame** — fund a trading account with dev income. been studying orderflow and futures for 3 years. To win the lottery, you first need to have the money to buy the ticket.
 
