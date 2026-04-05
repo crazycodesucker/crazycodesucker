@@ -94,5 +94,5 @@
 **open to remote backend roles + freelance API work** 👇
 
 [![LinkedIn](https://img.shields.io/badge/let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shameerali-sheikh)
-[![Email](https://img.shields.io/badge/email-reach%20out-EA4335?style=flat&logo=gmail)](mailto:sameersameer27822@gmail.com)
+[![Email](https://img.shields.io/badge/email-reach%20out-EA4335?style=for-the-badge&logo=gmail)](mailto:sameersameer27822@gmail.com)
 </div>
