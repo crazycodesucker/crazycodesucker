@@ -21,9 +21,9 @@
 
 > **2024** — led a team at uni hackathon → 7th place. realized i needed to build, not just break.
 
-> **2026** — pivoting hard into backend dev. not abandoning security — using it as a superpower. building APIs that are secure by default because i know what attackers look for.
+> **2026** — pivoting hard into backend dev. not abandoning security, using it as a superpower. building APIs that are secure by default because i know what attackers look for.
 
-> **endgame** — been studying orderflow and futures for 3 years. the dev job is the lottery ticket. trading is the jackpot. 🎯
+> **endgame** — been studying orderflow and futures for 3 years. the dev job is the money to buy lottery ticket. trading is the jackpot. 🎯
 
 ---
 
@@ -93,10 +93,10 @@
 
 <div align="center">
 
-*"the job is the lottery ticket. trading is the jackpot."*
+*"To win the lottery, you first need to have the money to buy the ticket"*
 
 **open to remote backend roles + freelance API work** 👇
 
 [![LinkedIn](https://img.shields.io/badge/let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shameerali-sheikh)
-
+[![Email](https://img.shields.io/badge/email-reach%20out-EA4335?style=flat&logo=gmail)](mailto:sameersameer27822@gmail.com)
 </div>
