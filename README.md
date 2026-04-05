@@ -11,7 +11,7 @@ current_status = {
     "learning":   ["Python", "FastAPI", "PostgreSQL", "Docker", "AWS"],
     "background": ["Red Teaming", "Penetration Testing", "Web Security"],
     "goal":       "remote backend dev → stable income → futures trading",
-    "progress":   "CS50P ✅ → FastAPI 🔄 → deployed projects"
+    "progress":   "CS50P → FastAPI → deployed projects"
 }
 ```
 
