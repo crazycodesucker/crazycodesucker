@@ -8,7 +8,7 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=crazycodesucker&color=00ff88&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shameerali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shameerali-sheikh)
 [![Email](https://img.shields.io/badge/Gmail-reach%20out-EA4335?style=flat-square&logo=gmail)](mailto:sameersameer27822@gmail.com)
 
 </div>
@@ -72,11 +72,7 @@
 
 <div align="center">
 
-![Shameerali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crazycodesucker&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=f0f0f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crazycodesucker&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&text_color=f0f0f0)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=crazycodesucker&theme=dark&hide_border=true&background=0a0a0a&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
 
 ---
 
