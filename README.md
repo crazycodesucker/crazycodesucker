@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=crazycodesucker&theme=dark&hide_border=true&background=0a0a0a&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
+![GitHub Streak](https://streak-stats.demolab.com?user=crazycode&theme=dark&hide_border=true&background=0a0a0a&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
 
 ---
 
