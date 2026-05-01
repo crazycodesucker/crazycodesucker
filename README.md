@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crazycodesucker&show_icons=true&theme=dark)
 
 ---
 
