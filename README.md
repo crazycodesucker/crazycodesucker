@@ -1,6 +1,6 @@
 <div align="center">
 
-# SHAMEERALI SHEIKH
+#  SHAMEERALI SHEIKH
 ### security background → backend grind → trading endgame
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Security-first+Backend+Developer;Red+Teamer+turned+API+Builder;Python+%2B+FastAPI+%2B+AWS+%2B+Docker;Building+to+fund+the+trading+account+%F0%9F%8E%AF)](https://git.io/typing-svg)
